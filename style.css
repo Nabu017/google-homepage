@@ -1,0 +1,138 @@
+#searchbar {
+    position: relative;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    top: 350px;
+    flex: 100%;
+    margin-top: -37px;
+    font-size: 16px;
+    width: 500px;
+    padding: 10px;
+    border-radius: 25px;
+    
+
+
+}
+    
+#google-picture {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 300px;
+} 
+
+#nav-link {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 20px;
+    word-spacing: 20px;
+    font-family: arial,sans-serif;
+    font-size: 13;
+}
+#google-search {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 400px;
+    right: 50px;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 4px;
+    font-family: arial,sans-serif;
+    border-color: transparent;
+}
+
+#feelinglucky {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 340px;
+    left: 90px;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 4px;
+    font-family: arial,sans-serif;
+    border-color: transparent;
+}
+#nav-link2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 20px;
+    word-spacing: 20px;
+    font-family: arial,sans-serif;
+    font-size: 13;
+    text-decoration: none;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+#googleoffered {
+   position: relative;
+   text-align: center;
+   top: 350px;
+   font-size: 13px;
+   font-family: arial,sans-serif;
+       
+    
+}
+#language {
+    color: blue;
+}
+#div-2 {
+    position: fixed;
+    display: block;
+    bottom: 0;
+    background-color:#dcdcdc;
+    width: 100%;
+    font-family: arial,sans-serif;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.54);
+    text-align: left;
+    margin-left: 30px;
+    border-top: solid;
+    border-color: transparent;
+     
+    word-spacing: 20px;
+    visibility: visible;
+}
+#advertising {
+    color: rgba(0, 0, 0, 0.54);
+}
+#business {
+    color: rgba(0, 0, 0, 0.54);
+    
+}
+#searchwork {
+    color: rgba(0, 0, 0, 0.54);
+word-spacing: initial;
+}
+#privacy {
+    color: rgba(0, 0, 0, 0.54);
+   
+    margin-right: auto;
+  
+
+}
+
+
+#terms {
+    color: rgba(0, 0, 0, 0.54);
+    
+
+}
+#settings {
+    color: rgba(0, 0, 0, 0.54);
+
+}
